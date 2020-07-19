@@ -2,7 +2,7 @@
 
 밑바닥부터 시작하는 딥러닝을 읽고 학습한 내용을 기록하는 저장소
 
-<img src="https://www.hanbit.co.kr/data/books/B8475831198_l.jpg" width=50% align=left />
+<img src="https://www.hanbit.co.kr/data/books/B8475831198_l.jpg" width=50% />
 
 저자 - 사이토 고키
 
