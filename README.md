@@ -8,5 +8,5 @@
 
 ## Chap 2
 
-- [퍼셉트론]([https://github.com/hs-krispy/Deep-Learning/blob/master/Chap2/%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0.md](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap2/퍼셉트론.md))
+- [퍼셉트론](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap2/퍼셉트론.md)
 
