@@ -10,3 +10,6 @@
 
 - [퍼셉트론](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap2/퍼셉트론.md)
 
+## Chap 3
+
+- [신경망](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap3/%EC%8B%A0%EA%B2%BD%EB%A7%9D.md)
