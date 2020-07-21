@@ -13,3 +13,5 @@
 ## Chap 3
 
 - [신경망](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap3/%EC%8B%A0%EA%B2%BD%EB%A7%9D.md)
+
+- [손글씨 숫자 인식](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap3/%EC%86%90%EA%B8%80%EC%94%A8%20%EC%88%AB%EC%9E%90%20%EC%9D%B8%EC%8B%9D.md)
