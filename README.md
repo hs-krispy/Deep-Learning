@@ -19,3 +19,5 @@
 ## Chap 4(신경망 학습)
 
 - [데이터 활용과 손실 함수](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap4/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%EA%B3%BC%20%EC%86%90%EC%8B%A4%20%ED%95%A8%EC%88%98.md)
+
+- [수치 미분과 기울기](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap4/%EC%88%98%EC%B9%98%20%EB%AF%B8%EB%B6%84%EA%B3%BC%20%EA%B8%B0%EC%9A%B8%EA%B8%B0.md)
