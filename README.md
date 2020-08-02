@@ -23,3 +23,7 @@
 - [수치 미분과 기울기](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap4/%EC%88%98%EC%B9%98%20%EB%AF%B8%EB%B6%84%EA%B3%BC%20%EA%B8%B0%EC%9A%B8%EA%B8%B0.md)
 
 - [학습 알고리즘 구현](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap4/%ED%95%99%EC%8A%B5%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B5%AC%ED%98%84.md)
+
+## Chap 5(오차역전파법)
+
+- [계산 그래프와 역전파](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap5/%EA%B3%84%EC%82%B0%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%97%AD%EC%A0%84%ED%8C%8C.md)
