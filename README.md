@@ -27,3 +27,5 @@
 ## Chap 5(오차역전파법)
 
 - [계산 그래프와 역전파](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap5/%EA%B3%84%EC%82%B0%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%97%AD%EC%A0%84%ED%8C%8C.md)
+
+- [계층과 오차역전파법](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap5/%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EC%98%A4%EC%B0%A8%EC%97%AD%EC%A0%84%ED%8C%8C%EB%B2%95.md)
