@@ -29,3 +29,8 @@
 - [계산 그래프와 역전파](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap5/%EA%B3%84%EC%82%B0%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%97%AD%EC%A0%84%ED%8C%8C.md)
 
 - [계층과 오차역전파법](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap5/%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EC%98%A4%EC%B0%A8%EC%97%AD%EC%A0%84%ED%8C%8C%EB%B2%95.md)
+
+## Chap 6(학습 관련 기술들)
+
+- [매개변수 갱신](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap6/%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%20%EA%B0%B1%EC%8B%A0.md)
+- [가중치의 초기값](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap6/%EA%B0%80%EC%A4%91%EC%B9%98%EC%9D%98%20%EC%B4%88%EA%B8%B0%EA%B0%92.md)
