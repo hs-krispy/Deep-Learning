@@ -36,3 +36,7 @@
 - [가중치의 초기값](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap6/%EA%B0%80%EC%A4%91%EC%B9%98%EC%9D%98%20%EC%B4%88%EA%B8%B0%EA%B0%92.md)
 
 - [배치 정규화와 하이퍼 파라미터 최적화](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap6/%EB%B0%B0%EC%B9%98%20%EC%A0%95%EA%B7%9C%ED%99%94%EC%99%80%20%ED%95%98%EC%9D%B4%ED%8D%BC%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
+
+## Chap 7(CNN)
+
+- [합성곱과 풀링 계층](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap7/%ED%95%A9%EC%84%B1%EA%B3%B1%EA%B3%BC%20%ED%92%80%EB%A7%81%20%EA%B3%84%EC%B8%B5.md)
