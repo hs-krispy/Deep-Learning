@@ -6,6 +6,10 @@
 
 저자 - 사이토 고키
 
+### 참고
+
+[https://github.com/WegraLee/deep-learning-from-scratch](https://github.com/WegraLee/deep-learning-from-scratch)
+
 ## Chap 2(퍼셉트론)
 
 - [퍼셉트론](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap2/퍼셉트론.md)
@@ -42,3 +46,7 @@
 - [합성곱과 풀링 계층](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap7/%ED%95%A9%EC%84%B1%EA%B3%B1%EA%B3%BC%20%ED%92%80%EB%A7%81%20%EA%B3%84%EC%B8%B5.md)
 
 - [합성곱/ 풀링/ CNN 구현](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap7/%ED%95%A9%EC%84%B1%EA%B3%B1%2C%20%ED%92%80%EB%A7%81%2C%20CNN%20%EA%B5%AC%ED%98%84.md)
+
+## Chap 8(딥러닝)
+
+- [딥러닝(1)](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap8/%EB%94%A5%EB%9F%AC%EB%8B%9D(1).md)
