@@ -50,3 +50,5 @@
 ## Chap 8(딥러닝)
 
 - [딥러닝(1)](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap8/%EB%94%A5%EB%9F%AC%EB%8B%9D(1).md)
+
+- [딥러닝(2)](https://github.com/hs-krispy/Deep-Learning/blob/master/Chap8/%EB%94%A5%EB%9F%AC%EB%8B%9D(2).md)
